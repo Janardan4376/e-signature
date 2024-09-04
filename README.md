@@ -3,8 +3,11 @@ e-signature is an online tool that convets your handwritten signature or typed s
 
 # Features:
 Responsive Design: The app is designed with a responsive layout, ensuring a consistent and optimal user experience across various devices.
+
 Canvas Drawing: Users can draw their electronic signatures directly on the canvas using the mouse or touch input.
+
 Clear and Undo Functionality: The app includes a "Clear" button to erase the entire signature and a "Undo" button to revert the last drawn stroke, providing flexibility for users.
+
 Download Signature: Once satisfied with the signature, users can download it as a PNG image file by clicking the "Download" button.
 
 # Technologies Used:
