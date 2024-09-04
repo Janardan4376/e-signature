@@ -11,7 +11,11 @@ Download Signature: Once satisfied with the signature, users can download it as 
 HTML | CSS | JAVASCRIPT
 
 # How to Use:
->Open the e-Signature App in a web browser.
->Draw your signature directly on the canvas.
->Use the "Clear" button to erase the entire signature or the "Undo" button to remove the last drawn stroke.
->Click the "Download" button to save your e-signature as a PNG image file.
+
+1.Open the e-Signature App in a web browser.
+
+2.Draw your signature directly on the canvas.
+
+3.Use the "Clear" button to erase the entire signature or the "Undo" button to remove the last drawn stroke.
+
+4.Click the "Download" button to save your e-signature as a PNG image file.
